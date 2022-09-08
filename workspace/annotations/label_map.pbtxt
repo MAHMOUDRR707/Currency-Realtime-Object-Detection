@@ -1,0 +1,24 @@
+item { 
+	name:'5Egp'
+	id:1
+}
+item { 
+	name:'10Egp'
+	id:2
+}
+item { 
+	name:'20Egp'
+	id:3
+}
+item { 
+	name:'50Egp'
+	id:4
+}
+item { 
+	name:'100Egp'
+	id:5
+}
+item { 
+	name:'200Egp'
+	id:6
+}
